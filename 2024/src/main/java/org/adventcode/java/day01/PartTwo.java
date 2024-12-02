@@ -15,7 +15,7 @@ public class PartTwo {
 
     public static final String FILE_TEST_NAME = "day01/input.txt";
 
-    public static void main(String[] args) throws IOException {
+    void main() throws IOException {
 
         AtomicInteger index = new AtomicInteger();
 
